@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Maya Patel",
+        "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "maya.patel@example.com",
+        "days_since_contact": 22,
+        "status": "overdue",
+        "tags": [
+            "college",
+            "close friend",
+            "hiking"
+        ],
+        "bio": "Met during freshman orientation and stayed close ever since. Weekend hikes and coffee catch-ups are our thing.",
+        "goal": 14,
+        "next_due_date": "2026-03-23"
+    },
+    {
+        "id": 2,
+        "name": "Ethan Brooks",
+        "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "ethan.brooks@example.com",
+        "days_since_contact": 12,
+        "status": "almost due",
+        "tags": [
+            "work",
+            "mentor",
+            "career"
+        ],
+        "bio": "Former teammate who helped me grow into a leadership role. We usually check in about work and new tech once a month.",
+        "goal": 14,
+        "next_due_date": "2026-04-16"
+    },
+    {
+        "id": 3,
+        "name": "Sofia Alvarez",
+        "picture": "https://images.unsplash.com/photo-1548142813-c348350df52b?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "sofia.alvarez@example.com",
+        "days_since_contact": 5,
+        "status": "on-track",
+        "tags": [
+            "neighbor",
+            "running",
+            "book club"
+        ],
+        "bio": "Lives a few blocks away. We run on Wednesdays and swap mystery novels at our neighborhood book club.",
+        "goal": 10,
+        "next_due_date": "2026-04-19"
+    },
+    {
+        "id": 4,
+        "name": "Daniel Kim",
+        "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "daniel.kim@example.com",
+        "days_since_contact": 31,
+        "status": "overdue",
+        "tags": [
+            "high school",
+            "gaming",
+            "long-distance"
+        ],
+        "bio": "Best friend from high school, now living across the country. We bond over co-op games and late-night calls.",
+        "goal": 21,
+        "next_due_date": "2026-03-26"
+    },
+    {
+        "id": 5,
+        "name": "Aisha Hassan",
+        "picture": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "aisha.hassan@example.com",
+        "days_since_contact": 8,
+        "status": "on-track",
+        "tags": [
+            "family friend",
+            "cooking",
+            "community"
+        ],
+        "bio": "Our families have known each other for years. We trade recipes and try a new restaurant together every couple of weeks.",
+        "goal": 14,
+        "next_due_date": "2026-04-20"
+    },
+    {
+        "id": 6,
+        "name": "Lucas Meyer",
+        "picture": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "lucas.meyer@example.com",
+        "days_since_contact": 13,
+        "status": "almost due",
+        "tags": [
+            "startup",
+            "design",
+            "collaborator"
+        ],
+        "bio": "Met at a local startup meetup. We like to brainstorm product ideas and critique each other’s design work.",
+        "goal": 14,
+        "next_due_date": "2026-04-15"
+    },
+    {
+        "id": 7,
+        "name": "Grace Thompson",
+        "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "grace.thompson@example.com",
+        "days_since_contact": 18,
+        "status": "almost due",
+        "tags": [
+            "volunteering",
+            "community garden",
+            "weekends"
+        ],
+        "bio": "We volunteer at the community garden on Saturdays. She’s great at keeping things organized and teaching new volunteers.",
+        "goal": 20,
+        "next_due_date": "2026-04-16"
+    },
+    {
+        "id": 8,
+        "name": "Noah Sterling",
+        "picture": "https://images.unsplash.com/photo-1542206395-9feb3edaa68d?auto=format&fit=facearea&w=400&h=400&q=80&facepad=2",
+        "email": "noah.sterling@example.com",
+        "days_since_contact": 2,
+        "status": "on-track",
+        "tags": [
+            "music",
+            "bandmate",
+            "creative"
+        ],
+        "bio": "Play guitar together in a small weekend band. We share playlists and meet to rehearse before open-mic nights.",
+        "goal": 7,
+        "next_due_date": "2026-04-19"
+    }
+]
