@@ -1,4 +1,4 @@
-redme---
+readme---
 # Keen Keeper
 
 Keen Keeper is a friendship tracking dashboard that helps you stay connected with your meaningful relationships. Log calls, texts, and video check-ins, then review your interaction history and analytics from a clean, responsive interface.
